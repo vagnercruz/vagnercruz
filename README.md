@@ -1,6 +1,6 @@
 ### Olá, Prazer eu sou o Vagner Da Cruz um apaixonado por desenvolvimento e tecnologia! 
-- 🔭 Atualmente trabalho com desenvolvimento Back-end com a Linguagem Delphi
-- 🌱 Estudando C++ e JavaScript
+- 🔭 Atualmente trabalho com desenvolvimento Full Stack utilizando principalmente a linguagem de progrmação PHP 
+- 🌱 Estudando PHP e JavaScript
 - 📫 entre em contato comigo no e-mail: vagnerdacruz48@gmail.com
 -->
 <div>
