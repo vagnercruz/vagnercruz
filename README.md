@@ -4,11 +4,12 @@
 <h3> Front-end Developer & Systems Development Technician</h3>
 
 
-### 👨‍🦱  Sobre eu
+### 👨‍🦱  about me
 - ⏳  I'm 21 years old
 - 💙  My preferred language is Ruby (with OnRails too)
 - 🌱  I’m currently learning *PHP and JavaScript*
 - 🎓 Studying Software Engineer in [Centro Universitário Uninter](https://www.uninter.com/)
+- 📭 My e-mail is (vagnerdacruz48@gmail.com)
 
 ### 📊  2021 Goals:
    - 📂  Expand my portfolio
@@ -50,5 +51,4 @@
   <a href="https://www.instagram.com/vagnermendino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/vagmendino" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vagner-matheus-da-cruz-b62473200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:vagnerdacruz48@gmail.com"><img src="https://img.shields.io/badge/-csilvanp@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a><br/> 
 </p>
