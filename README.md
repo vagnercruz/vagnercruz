@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/github-171516?style=for-the-badge&logo=github&logoColor=white" height="25"/>
+  <img src="https://komarev.com/ghpvc/?username=vagnercruz&color=green" alt="vagnercruz" /> 
 </p>
 
  <br/><br/>
