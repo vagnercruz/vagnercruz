@@ -1,6 +1,6 @@
 <p align="left">
 <h1 align ="center">Hello World! I'm Vagner Matheus!</h1>
-<img alt="Coding" src="https://user-images.githubusercontent.com/65902368/114281937-9d5d6100-9a17-11eb-813d-a05faec2b389.gif" align="right" height="450" align="right"/>
+<img alt="Coding" src="https://hermes.digitalinnovation.one/articles/cover/4781a19d-53f3-4f3d-8da0-51db7bd38889.gif" align="right" height="450" align="right"/>
 <h3> Full-stack Developer</h3>
 
 
