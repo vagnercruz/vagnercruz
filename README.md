@@ -4,7 +4,7 @@
 
 
 
-<h3>### 👨‍🦱  about me</h3>
+### 👨‍🦱  about me ###
 - 🤖 Full-stack Developer
 - ⏳  I'm 21 years old
 - 💙  My preferred language is Ruby (with OnRails too)
