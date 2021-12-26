@@ -7,7 +7,7 @@
 ### 👨‍🦱  about me ###
 - 🤖 Full-stack Developer
 - ⏳  I'm 21 years old
-- 💙  My preferred language is Ruby (with OnRails too)
+- ❤️  My preferred language is Ruby (with OnRails too)
 - 🌱  I’m currently learning *PHP and JavaScript*
 - 🎓 Studying Software Engineer in [Centro Universitário Uninter](https://www.uninter.com/)
 - 📭 My e-mail is (vagnerdacruz48@gmail.com)
