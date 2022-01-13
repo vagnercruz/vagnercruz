@@ -12,7 +12,7 @@
 - 🎓 Studying Software Engineer in [Centro Universitário Uninter](https://www.uninter.com/)
 
 <p align="left">
-  💌 Entre em contato comigo por algumas dessas redes sociais : ⤵️
+  💌 Contact me : ⤵️
 </p>
 
 <p align="left">
