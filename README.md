@@ -10,7 +10,24 @@
 - ❤️  My preferred language is Ruby (with OnRails too)
 - 🌱  I’m currently learning *PHP and JavaScript*
 - 🎓 Studying Software Engineer in [Centro Universitário Uninter](https://www.uninter.com/)
-- 📭 My e-mail is (vagnerdacruz48@gmail.com)
+
+<p align="left">
+  💌 Entre em contato comigo por algumas dessas redes sociais : ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:vagnerdacruz48@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="https://www.linkedin.com/in/vagner-matheus/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://api.whatsapp.com/send?phone=46999423140&text=Sua%20mensagem%20vai%20aqui" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="https://www.instagram.com/vag.matheus/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
 
 ### 📊  2021 Goals:
    - 📂  Expand my portfolio
@@ -52,8 +69,6 @@
   <a href="https://www.youtube.com/channel/UCGt5K84ivNT-s2IzTMINuSg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/vag.matheus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/vagmendino" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vagner-matheus-da-cruz-b62473200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 </div>
 
