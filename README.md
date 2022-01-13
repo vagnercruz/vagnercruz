@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/vagner-matheus/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://api.whatsapp.com/send?phone=46999423140&text=Olá!%20eusou%20o%20vagner" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=46999423140&text=Olá!%20entre em contato,%20o%20responderei o mais rápido possível" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
   <a href="https://www.instagram.com/vag.matheus/" alt="Instagram">
@@ -65,9 +65,8 @@
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnercruz&layout=compact&langs_count=7&theme=dark"/>
 </p>
 <p align="left">
-   <h3>     ✌️ Contact Me     </h3>
+   <h3>     ✌️ Access my content!     </h3>
   <a href="https://www.youtube.com/channel/UCGt5K84ivNT-s2IzTMINuSg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/vag.matheus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/vagmendino" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </p>
 </div>
