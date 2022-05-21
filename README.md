@@ -1,6 +1,6 @@
 <p align="left">
 <h1 align ="center">Hello World! I'm Vagner Matheus!</h1>
-<img alt="Coding" src="https://hermes.digitalinnovation.one/articles/cover/4781a19d-53f3-4f3d-8da0-51db7bd38889.gif" align="right" height="350" width="500" align="right"/>
+<img alt="Coding" src="https://hermes.digitalinnovation.one/articles/cover/4781a19d-53f3-4f3d-8da0-51db7bd38889.gif" align="right" height="350" width="510" align="right"/>
 
 
 
