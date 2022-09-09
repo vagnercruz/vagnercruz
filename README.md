@@ -8,7 +8,7 @@
 - 🤖 Full-stack Developer
 - ⏳  I'm 22 years old
 - ❤️  My favorite language is Ruby (with OnRails too)
-- 🌱  I’m currently learning *Ruby and Java*
+- 🌱  I’m currently learning *Ruby*
 - 🎓 Studying Software Engineer in [Centro Universitário Uninter](https://www.uninter.com/)
 
 <p align="left">
