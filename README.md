@@ -1,41 +1,38 @@
-<p align="left">
-<h1 align ="center">Hello World! I'm Vagner Matheus!</h1>
-<img alt="Coding" src="https://hermes.digitalinnovation.one/articles/cover/4781a19d-53f3-4f3d-8da0-51db7bd38889.gif" align="right" height="350" width="510"/>
+<div align="left">
+  <h1 align="center">Hello World! I'm Vagner Matheus!</h1>
+  <img alt="Coding" src="https://hermes.digitalinnovation.one/articles/cover/4781a19d-53f3-4f3d-8da0-51db7bd38889.gif" align="right" height="350" width="510"/>
+  
+  ### 👨‍🦱  About Me ###
+  - 🤖 Full-stack Developer
+  - ⏳  I'm 23 years old
+  - ❤️  My favorite language is Ruby (with OnRails too)
+  - 🌱  I’m currently learning *C* and *Assembly*
+  - 🎓 Studying Software Engineering at [Centro Universitário Uninter](https://www.uninter.com/)
+</div>
 
-### 👨‍🦱  about me ###
-- 🤖 Full-stack Developer
-- ⏳  I'm 23 years old
-- ❤️  My favorite language is Ruby (with OnRails too)
-- 🌱  I’m currently learning *C* and *Assembly*
-- 🎓 Studying Software Engineer in [Centro Universitário Uninter](https://www.uninter.com/)
-
-<p align="left">
-  💌 Contact me : ⤵️
-</p>
-
-<p align="left">
+<div align="left">
+  💌 Contact me:
   <a href="mailto:vagnerdacruz48@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:vagnerdacruz48@gmail.com" />
+  </a>
   <a href="https://www.linkedin.com/in/vagner-matheus/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagner-matheus/" />
+  </a>
   <a href="https://api.whatsapp.com/send?phone=5546999423140&" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5546999423140&" />
+  </a>
   <a href="https://www.instagram.com/vag.matheus/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/vag.matheus/" />
+  </a>
+</div>
 
-### 📊  2022 Goals:
-   - 📂  Expand my portfolio
-   - 🤝  Contribuite in open-source projects
-<p/>
-
+### 📊  2023 || 2024 Goals:
+- 📂  Expand my portfolio
+- 🤝  Contribute to open-source projects
 
 ### 📚  Stack I Work With
-
 <p align="left">
+  <p align="left">
   <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" height="25"/>
@@ -53,24 +50,27 @@
   <img src="https://komarev.com/ghpvc/?username=vagnercruz&color=green" alt="vagnercruz" /> 
 </p>
 
- <br/><br/>
- 
- 
- 
- 
-<div> 
- <h3 align="center">⭐  Statistics and Languages</h3>
+</p>
 
- <p align="center"> 
-     <a href="https://github.com/vagnercruz">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vagnercruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnercruz&layout=compact&langs_count=7&theme=dark"/>
-</p>
-<p align="left">
-   <h3>     ✌️ Access my content!     </h3>
-  <a href="https://www.youtube.com/channel/UCGt5K84ivNT-s2IzTMINuSg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/vagmendino" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-</p>
+<br/><br/>
+
+<div align="center"> 
+  <h3>⭐  Statistics and Languages</h3>
+
+  <p> 
+    <a href="https://github.com/vagnercruz">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vagnercruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnercruz&layout=compact&langs_count=7&theme=dark"/>
+    </a>
+  </p>
+
+  <h3>✌️ Access my content!</h3>
+  <a href="https://www.youtube.com/channel/UCGt5K84ivNT-s2IzTMINuSg" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.twitch.tv/vagmendino" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 ![Snake animation](https://github.com/vagnercruz/vagnercruz/blob/output/github-contribution-grid-snake.svg)
