@@ -21,4 +21,8 @@
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=vagnercruz&theme=tokyonight&hide_border=true&custom_title=Principais%20Linguagens)
+<div align="center">
+  <a href="https://github.com/DanielSant0s">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vagnercruz&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnercruz&layout=compact&theme=radical"/>
+</div>
