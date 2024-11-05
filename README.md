@@ -1,4 +1,4 @@
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=886ce4&height=160&section=header&text=Vagner %Matheus&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7f7f7&height=120&section=header"/>
 
  
 
