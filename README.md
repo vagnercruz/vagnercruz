@@ -10,10 +10,10 @@
 <div>
  <img align="right" width=250px alt="notebook picture" src="https://user-images.githubusercontent.com/62142146/208130941-c4543e17-d067-48ea-bec2-f0bd8765470e.png">
 - Pode me chamar de Vagner ou Mendola ✌ <br>
- - Desenvolvedor web FullStack<br>
+- Desenvolvedor FullStack<br>
 - Me aperfeiçoando cada dia um pouco mais com a programação <br>
 - Amo tecnologia <br>
-- Atualmente me aperfeiçoando em Node e Angular<br>
+- Atualmente me aperfeiçoando em Java<br>
 - Um pézinho a mais no Back-end <br>
 - Adoro programação, animes e jogos
  <br>
